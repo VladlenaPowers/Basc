@@ -7,6 +7,8 @@ Basc is a MATLAB package that computes best constrained approximants by solving 
 
 This is version 1.0.
 
+Testing
+-------------
 
 ** How do I start using Basc? **
 
